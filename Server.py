@@ -67,7 +67,7 @@ def receive():
             print("Le user du client est: " + message)
             # Pour savoir qui est arrive
             broadcast(f'{message} a rejoint le chat \n'.encode('utf8'))
-            # Pour le client sait qu'il est connecter sur le server
+            # Pour le client sait qu'il est connecte sur le server
             conn.send('Vous etes connecte au server'.encode('utf8'))
             
             # On va commencer avec le single-threading pour ce client
@@ -81,6 +81,6 @@ def receive():
             conn.close()
             serverSocket.close()
       
-# Recevoir l'info pour le client et pour le faire run
+# Recevoir l'info pour le client et le faire courrir
 receive()
 
