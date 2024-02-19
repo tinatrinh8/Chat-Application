@@ -5,7 +5,7 @@ This application consists of two main components: the server (`server.py`) and t
 
 ### Prerequisites
 
-Before you begin, ensure you have Python installed on your system. This application has been tested on Python 3.8 and above. You can download Python from [here](https://www.python.org/downloads/).
+Ensure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
 
 ### Installation
 
