@@ -1,13 +1,13 @@
-# Chat-Application
+# Chat-Application 🌳👩🏻‍🏫🫧🍓🛝
 A simple tool for real-time communication.
 
-This application consists of two main components: the server (`server.py`) and the client (`client.py`). The server handles incoming connections and relays messages between clients, while the client provides an interface for users to connect to the server, send, and receive messages. Inluded is a DOCX report of the lab, written in french (`CEG3585 – Lab1.docx`).
+This application consists of two main components: the server (`server.py`) and the client (`client.py`). The server handles incoming connections and relays messages between clients, while the client provides an interface for users to connect to the server, send, and receive messages.
 
-### Prerequisites
+### 🏊🏻‍♀️ Prerequisites 
 
 Ensure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
 
-### Installation
+### 🪅 Installation
 
 1. Clone the repository to your local machine:
    ```
@@ -18,7 +18,7 @@ Ensure you have Python installed on your system. You can download Python from [h
    cd path-to-your-project
    ```
 
-## Running the Server
+## 🕰️ Running the Server
 
 To start the server, run the following command in your terminal:
 
@@ -28,7 +28,7 @@ python server.py
 
 By default, the server listens on `localhost` and port `8080`. You can change these settings by editing the `server.py` file.
 
-## Running the Client
+## 🍶 Running the Client
 
 To connect to the server, open a new terminal window and run:
 
